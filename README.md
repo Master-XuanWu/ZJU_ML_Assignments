@@ -14,3 +14,9 @@
   * Logistic Regression
   * Support Vector Machine
 * Regularization and Cross-Validation
+
+## hw3
+
+* Neural Networks
+* K-Nearest Neighbor
+* K-Means Clustering
