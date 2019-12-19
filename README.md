@@ -20,3 +20,8 @@
 * Neural Networks
 * K-Nearest Neighbor
 * K-Means Clustering
+
+## hw4
+
+* Spectral Clustring
+* Principal Component Analysis
